@@ -1,0 +1,9 @@
+## Data Disclaimer
+
+Please note that the clinical and MRI data used for this study are not included in this repository because they may contain sensitive information. 
+
+The data used in this study can be obtained from the OASIS (Open Access Series of Imaging Studies) website. To access the data, you will need to register and agree to their data use terms.
+
+For more information and to obtain the data, please visit the [OASIS website](https://www.oasis-brains.org/).
+
+We have provided sample data in the `sample_data` folder for testing and demonstration purposes only. These sample data files do not contain real patient information and are purely fictitious.
